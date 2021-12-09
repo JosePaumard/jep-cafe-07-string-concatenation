@@ -1,6 +1,6 @@
 ## JEP Café episode 7: String Concatenation
 
-Here is the code used in [JEP Café 4](https://youtu.be/w56RUzBLaRE), where you will find the class I used to get the benchmarks. 
+Here is the code used in JEP Café 7 that you can find here: https://youtu.be/w56RUzBLaRE, where you will find the class I used to get the benchmarks. You can find the other episods of the JEP Café here: https://www.youtube.com/playlist?list=PLxmvVTBGyuudYfIKthv2haNPneL9Upbgc
 
 This project is a Maven project, so you need a Maven installation to run it. 
 
